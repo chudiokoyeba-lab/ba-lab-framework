@@ -42,3 +42,13 @@ Early public framework repository. Actively being refined through practical test
 The longer-term goal is to evolve BA Lab into a digital product that supports analysts with structured decision-making before, during, and after meetings.
 
 The current focus is on building and validating the framework through practical use cases.
+## Getting started
+
+If you're a Business Analyst preparing for a meeting, you can use this framework in a simple way:
+
+1. Review the meeting context and identify what is changing
+2. Use the checklist to prepare key questions
+3. Apply the scenarios as guidance for thinking through risks and trade-offs
+4. After the meeting, structure your notes into clear outputs
+
+This repository provides simple tools to help you move from understanding theory to applying it in real situations.
