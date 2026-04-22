@@ -37,3 +37,8 @@ This repository contains early public materials for the BA Lab framework, includ
 ## Status
 
 Early public framework repository. Actively being refined through practical testing and real meeting support use cases.
+## Product direction
+
+The longer-term goal is to evolve BA Lab into a digital product that supports analysts with structured decision-making before, during, and after meetings.
+
+The current focus is on building and validating the framework through practical use cases.
